@@ -1,0 +1,15 @@
+- city: Paris, France
+  title: Sebastien's home
+  tagline: Charming room in Montmartre
+  github_nickname: 'ssaunier'
+  city_picture: 'https://kitt.lewagon.com/placeholder/cities/paris'
+- city: Tokyo, Japon
+  title: Boris's home
+  tagline: Small flat in Tokyo
+  github_nickname: 'papillard'
+  city_picture: 'https://kitt.lewagon.com/placeholder/cities/tokyo'
+- city: Paris, France
+  title: Romain's home
+  tagline: Nice flat in Picadilly
+  github_nickname: 'monsieurpaillard'
+  city_picture: 'https://kitt.lewagon.com/placeholder/cities/london'
